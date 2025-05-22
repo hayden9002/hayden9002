@@ -1,8 +1,6 @@
-## Hi there 👋
-
-
+I know
   <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?i=msdos,&perline=8" alt="Skill Icons">
+    <img src="https://skills.syvixor.com/api/icons?i=msdos,windows,&perline=8" alt="Skill Icons">
   </a>
 
 

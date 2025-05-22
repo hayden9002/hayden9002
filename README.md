@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+
+<details>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=msdos,windows,&perline=8" alt="Skill Icons">
+  </a>
+</details>
+
+
+
+
 <!--
 **hayden9002/hayden9002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
